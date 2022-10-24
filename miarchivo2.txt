@@ -1,2 +1,3 @@
 Seguimos en entrenamiento con Git.
 Para aprender luego Github.
+Comenzaremos con el proyecto.
