@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Continuando con los cambios.
 Chanchito feliz.
 Chanchito risueño.
 Chanchito triste.
 Felipe.
+=======
+Segundo archivo.
+Push completado entre git local y remoto.
+>>>>>>> 4ec22f6005749563c6f998be0176157be9a7350a

@@ -1,2 +1,1 @@
-Primeros pasos de Git.
-Chanchito feliz.
+Mi primer archivo en repositorio.
